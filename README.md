@@ -10,11 +10,11 @@
 
  #### Languages and tools that I learned before:
  * Languages
-   * C, Java, Python, Kotlin, HTML5, CCS, JavaScript, Prolog
- * Frameworks
-   * Dash, Flask, NodeJS, JQuery, React Native, Bootstrap5
+   * Python, Java, Kotlin, HTML5, CCS, JavaScript, Prolog, C
+ * Frameworks or Libraries
+   * Dash, Flask, Bootstrap5, React Native, NodeJS, JQuery, Ajax
  * Databases
-   * Firebase, SQL, SQLite, MongoDB
+   * MongoDB, Firebase, SQL, SQLite  
  * Tools
    * Docker
 
