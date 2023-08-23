@@ -6,7 +6,11 @@
 
 #### Current projects that I'm helping out with:
 * RicePilaf: https://github.com/bioinfodlsu/rice-pilaf
+  * A web app, using Python, Dash, and Flask, for helping biologists study rice genes
+  * This project is in partnership with the International Rice Research Institute (IRRI)
 * FilWordNet: https://github.com/dlsucomet/filwordnet-portal
+  * A web app, using Python, Dash, and Flask, for helping users understand different Filipino word meanings and their connections among the word meanings
+  * This project is funded by the Department of Science and Technology (DOST) 
 
  #### Languages and tools that I learned before:
  * Languages
