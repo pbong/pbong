@@ -2,7 +2,7 @@
 
 #### About me:
 * 📗 I'm a graduating student from De La Salle University Manila taking up BS Computer Science with Specialization in Software Technology
-* 💻 I like to help create applications that helps people in some ways (it just makes me happy 😊)
+* 💻 I like to create applications that help people in some ways (it just makes me happy 😊)
 
 #### Current projects that I'm helping out with:
 * RicePilaf: https://github.com/bioinfodlsu/rice-pilaf
